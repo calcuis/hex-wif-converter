@@ -1,4 +1,4 @@
-# hex-wif-converter
+## hex-wif-converter
 
 The given Python code defines a function `hex_to_wif(`hex_private_key`)` that converts a hexadecimal private key (typically used in cryptocurrency systems) into a Wallet Import Format (WIF) key. Here's a step-by-step explanation of the code:
 
@@ -26,4 +26,4 @@ The provided hexadecimal private key is converted to its corresponding WIF key u
 
 The resulting WIF key is printed as output.
 
-In summary, this code snippet demonstrates the conversion of a hexadecimal private key into a WIF key, which is a common format used to import and manage private keys in various cryptocurrency wallets.
+In summary, this code snippet demonstrates the conversion of a hexadecimal private key into a WIF key, which is a common format used to import and manage private keys in various crypto wallets.
